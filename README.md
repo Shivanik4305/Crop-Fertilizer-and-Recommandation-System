@@ -1,1 +1,0 @@
-crop fertilizer recommendation system
